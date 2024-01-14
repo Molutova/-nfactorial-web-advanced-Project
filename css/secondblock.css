@@ -1,0 +1,22 @@
+.secondblock {
+  margin-top: 25px;
+  width: 100%;
+  height: 562px;
+  background-color: #e1dee7;
+}
+.second-position {
+  position: relative;
+  left: 20px;
+}
+.second-main-txt {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 12px;
+}
+.second-options {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}

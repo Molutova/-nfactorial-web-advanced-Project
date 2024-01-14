@@ -1,0 +1,33 @@
+footer {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background-color: white;
+}
+.footer-all {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer-nav {
+  display: flex;
+  align-items: center;
+  gap: 17px;
+  position: relative;
+  left: 20px;
+}
+.footer-txt {
+  color: #081e34;
+  font-weight: 500;
+  font-family: Inter;
+  opacity: 19%;
+}
+.footer-end-txt {
+  display: flex;
+  justify-content: flex-end;
+  color: #081e34;
+}
+a {
+  color: #081e34;
+}
